@@ -1,0 +1,15 @@
+Name: M1
+Type: FolderType
+Children:
+- Name: Pressure
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 11
+- Name: Temperature
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 11
+- Name: Flow
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 11
